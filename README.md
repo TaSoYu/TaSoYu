@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![](http://antzuhl.cn:4000/get/@antzuhl.readme)
+### Welcome To My GitHub Profile ! 👋
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TaSoYu&show_icons=true&theme=tokyonight" /> </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaSoYu" /> </div>
