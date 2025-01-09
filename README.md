@@ -63,8 +63,6 @@ Additionally, I am deeply interested in **computer system fundamentals** and **a
 </div>
 
 
-
-
 ## 📫 Get in Touch
 - [Email Me](mailto:1146278773@qq.com)
 - **WeChat ID**:  wxtototo
