@@ -5,7 +5,6 @@ I have expertise in **Golang** and **C++**, and I am striving to become a skille
 I also have a basic understanding of **frontend technologies**. <br>
 Additionally, I am deeply interested in **computer system fundamentals** and **algorithms**.<br>
 
----
 
 ## 🖥️ Programming Languages
 <p style="margin: 1px 1px;">
@@ -19,7 +18,7 @@ Additionally, I am deeply interested in **computer system fundamentals** and **a
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Shell-777BB4?style=flat-square&logo=PowerShell&logoColor=white" />
 </p>
----
+
 
 ## 🛠️ Development Tools
 <p style="margin : 1px 1px;">
@@ -47,7 +46,7 @@ Additionally, I am deeply interested in **computer system fundamentals** and **a
   <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
 </p>
----
+
 
 ## 📊 GitHub Statistics
 <div align="center">
@@ -58,7 +57,7 @@ Additionally, I am deeply interested in **computer system fundamentals** and **a
     </tr>
   </table>
 </div>
----
+
 
 ## 📫 Get in Touch
 - [Email Me](mailto:1146278773@qq.com)
