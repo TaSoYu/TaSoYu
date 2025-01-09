@@ -50,13 +50,18 @@ Additionally, I am deeply interested in **computer system fundamentals** and **a
 
 ## 📊 GitHub Statistics
 <div align="center">
-  <table style="width:100%;">
+  <table style="width:100%; border-collapse: collapse;">
     <tr>
-      <td align="center" style="width:50%;"><img src="https://github-readme-stats.vercel.app/api?username=TaSoYu&show_icons=true&theme=tokyonight" /></td>
-      <td align="center" style="width:50%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaSoYu&layout=compact&exclude_repo=LyFive.github.io&title_color=blue&icon_color=bb2acf&text_color=blue&bg_color=0,fbefc4,fba9ae)](https://github.com/anuraghazra/github-readme-stats" /></td>
+      <td align="center" style="width:50%; padding:10px; background-color:#f0f8ff;">
+        <img src="https://github-readme-stats.vercel.app/api?username=TaSoYu&show_icons=true&theme=tokyonight" />
+      </td>
+      <td align="center" style="width:50%; padding:10px; background-color:#f0f8ff;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaSoYu&layout=compact&exclude_repo=LyFive.github.io&title_color=blue&icon_color=bb2acf&text_color=blue&bg_color=0,fbefc4,fba9ae)](https://github.com/anuraghazra/github-readme-stats" />
+      </td>
     </tr>
   </table>
 </div>
+
 
 
 
