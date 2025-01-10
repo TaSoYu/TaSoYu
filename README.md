@@ -22,6 +22,7 @@ Additionally, I am deeply interested in **computer system fundamentals** and **a
 
 ## 🛠️ Development Tools
 <p style="margin : 1px 1px;">
+  <img src="https://img.shields.io/badge/-Goland-1F4EA1?style=flat-square&logo=JetBrains&logoColor=white" />
   <img src="https://img.shields.io/badge/-IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white" />
   <img src="https://img.shields.io/badge/-CLion-000000?style=flat-square&logo=CLion&logoColor=white" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white" />
