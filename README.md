@@ -66,6 +66,6 @@ Additionally, I am deeply interested in **computer system fundamentals** and **a
 
 ## 📫 Get in Touch
 - [Email Me](mailto:1146278773@qq.com)
-- **WeChat ID**:  wxtototo
+
 
 Feel free to explore my repositories and projects! 😊
