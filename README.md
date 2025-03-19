@@ -34,7 +34,7 @@ Additionally, I am deeply interested in **computer system fundamentals** and **a
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white" />
   <img src="https://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white" />
 <p style="margin : 1px 1px;">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
